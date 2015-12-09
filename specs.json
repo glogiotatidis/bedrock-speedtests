@@ -1,28 +1,28 @@
 {
     "median": {
         "firstView": {
-            "loadTime": 10000,
-            "docTime": 10000,
             "SpeedIndex": 3500,
-            "fullyLoaded": 10000,
-            "domElements": 1000,
-            "bytesIn": 770000,
-            "bytesInDoc": 770000,
+            "loadTime": 3500,
+            "docTime": 3500,
+            "fullyLoaded": 5000,
+            "domElements": 773,
+            "bytesIn": 728000,
+            "bytesInDoc": 657600,
             "breakdown": {
                 "html": {
-                   "bytes": 19100
+                    "bytes": 18550
                 },
                 "js": {
-                    "bytes": 130000
+                    "bytes": 123325
                 },
                 "font": {
-                    "bytes": 430000
+                    "bytes": 419810
                 },
                 "image": {
-                    "bytes": 98000
+                    "bytes": 96140
                 },
                 "css": {
-                    "bytes": 13000
+                    "bytes": 12200
                 }
             }
         }
