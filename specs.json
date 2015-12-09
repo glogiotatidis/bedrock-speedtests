@@ -2,7 +2,8 @@
     "median": {
         "firstView": {
             "loadTime": 10000,
-            "SpeedIndex": 10000
+            "SpeedIndex": 3500,
+            "fullyLoaded": 10000,
         }
     }
 }
