@@ -2,9 +2,29 @@
     "median": {
         "firstView": {
             "loadTime": 10000,
+            "docTime": 10000,
             "SpeedIndex": 3500,
             "fullyLoaded": 10000,
-            "domElements": 1000
+            "domElements": 1000,
+            "bytesIn": 770000,
+            "bytesInDoc": 770000,
+            "breakdown": {
+                "html": {
+                    "bytes": 19100
+                },
+                "js": {
+                    "bytes": 130000
+                },
+                "font": {
+                    "bytes": 430000
+                },
+                "image": {
+                    "bytes": 98000
+                },
+                "css": {
+                    "bytes": 13000
+                }
+            }
         }
     }
 }
