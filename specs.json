@@ -1,9 +1,12 @@
 {
-    "median": {
-        "firstView": {
-            "loadTime": 10000,
-            "SpeedIndex": 3500,
-            "fullyLoaded": 10000
+    "runs": {
+        "1": {
+            "firstView": {
+                "loadTime": 10000,
+                "SpeedIndex": 3500,
+                "fullyLoaded": 10000,
+                "domElements": 1000,
+            }
         }
     }
 }
