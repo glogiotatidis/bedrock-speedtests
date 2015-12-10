@@ -8,6 +8,7 @@
             "domElements": 773,
             "bytesIn": 728000,
             "bytesInDoc": 657600,
+            "TTFB": 720,
             "breakdown": {
                 "html": {
                     "bytes": 18550
